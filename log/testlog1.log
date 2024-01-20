@@ -1,0 +1,196 @@
+2024-01-14 18:11:04,908 [main] INFO ebanking - Entered Username
+2024-01-14 18:11:05,023 [main] INFO ebanking - Entered Password
+2024-01-14 18:11:14,461 [main] INFO ebanking - Clicked on Login button
+2024-01-14 18:11:14,471 [main] INFO ebanking - Login Test Passed
+2024-01-14 18:25:53,079 [main] INFO ebanking - Entered Username
+2024-01-14 18:25:53,190 [main] INFO ebanking - Entered Password
+2024-01-14 18:25:56,036 [main] INFO ebanking - Clicked on Login button
+2024-01-14 18:25:56,054 [main] INFO ebanking - Login Test Passed
+2024-01-14 19:12:50,402 [main] INFO ebanking - Entered Username
+2024-01-14 19:12:50,497 [main] INFO ebanking - Entered Password
+2024-01-14 19:12:53,068 [main] INFO ebanking - Clicked on Login button
+2024-01-14 19:12:53,084 [main] INFO ebanking - Login Test Passed
+2024-01-14 19:19:54,597 [main] INFO ebanking - Entered Username
+2024-01-14 19:19:54,669 [main] INFO ebanking - Entered Password
+2024-01-14 19:19:56,698 [main] INFO ebanking - Clicked on Login button
+2024-01-14 19:19:56,710 [main] INFO ebanking - Login Test Passed
+2024-01-14 19:20:35,382 [main] INFO ebanking - Entered Username
+2024-01-14 19:20:35,488 [main] INFO ebanking - Entered Password
+2024-01-14 19:20:38,025 [main] INFO ebanking - Clicked on Login button
+2024-01-14 19:20:38,037 [main] INFO ebanking - Login Test Passed
+2024-01-14 19:38:33,322 [main] INFO ebanking - Entered Username
+2024-01-14 19:38:33,408 [main] INFO ebanking - Entered Password
+2024-01-14 19:38:35,686 [main] INFO ebanking - Clicked on Login button
+2024-01-14 19:38:35,701 [main] INFO ebanking - Login Test Passed
+2024-01-15 11:33:24,092 [main] INFO ebanking - Entered Username
+2024-01-15 11:33:24,206 [main] INFO ebanking - Entered Password
+2024-01-15 11:33:26,229 [main] INFO ebanking - Clicked on Login button
+2024-01-15 11:33:26,237 [main] INFO ebanking - Login Test Passed
+2024-01-15 11:40:37,493 [main] INFO ebanking - Entered Username
+2024-01-15 11:40:37,586 [main] INFO ebanking - Entered Password
+2024-01-15 11:40:38,354 [main] INFO ebanking - Clicked on Login button
+2024-01-15 11:43:01,151 [main] INFO ebanking - Entered Username
+2024-01-15 11:43:01,257 [main] INFO ebanking - Entered Password
+2024-01-15 11:43:01,847 [main] INFO ebanking - Clicked on Login button
+2024-01-15 11:53:21,410 [main] INFO ebanking - Entered Username
+2024-01-15 11:53:21,487 [main] INFO ebanking - Entered Password
+2024-01-15 11:53:22,038 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:13:35,534 [main] INFO ebanking - Entered Username
+2024-01-15 12:13:35,647 [main] INFO ebanking - Entered Password
+2024-01-15 12:13:36,908 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:14:35,678 [main] INFO ebanking - Entered Username
+2024-01-15 12:14:35,788 [main] INFO ebanking - Entered Password
+2024-01-15 12:14:37,069 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:17:06,833 [main] INFO ebanking - Entered Username
+2024-01-15 12:17:06,927 [main] INFO ebanking - Entered Password
+2024-01-15 12:17:09,420 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:18:42,091 [main] INFO ebanking - Entered Username
+2024-01-15 12:18:42,183 [main] INFO ebanking - Entered Password
+2024-01-15 12:18:43,547 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:20:59,565 [main] INFO ebanking - Entered Username
+2024-01-15 12:20:59,644 [main] INFO ebanking - Entered Password
+2024-01-15 12:21:00,460 [main] INFO ebanking - Clicked on Login button
+2024-01-15 12:22:55,114 [main] INFO ebanking - Entered Username
+2024-01-15 12:22:55,209 [main] INFO ebanking - Entered Password
+2024-01-15 12:22:55,749 [main] INFO ebanking - Clicked on Login button
+2024-01-15 19:59:04,080 [main] INFO ebanking - Entered Username
+2024-01-15 19:59:04,157 [main] INFO ebanking - Entered Password
+2024-01-15 19:59:05,893 [main] INFO ebanking - Clicked on Login button
+2024-01-15 19:59:05,915 [main] INFO ebanking - Login Test Passed
+2024-01-15 20:05:30,422 [main] INFO ebanking - user name provided
+2024-01-15 20:05:30,546 [main] INFO ebanking - password provided
+2024-01-15 20:05:38,450 [main] INFO ebanking - Login passed
+2024-01-15 20:05:49,692 [main] INFO ebanking - user name provided
+2024-01-15 20:05:49,773 [main] INFO ebanking - password provided
+2024-01-15 20:06:00,596 [main] INFO ebanking - user name provided
+2024-01-15 20:06:00,651 [main] INFO ebanking - password provided
+2024-01-15 20:06:10,164 [main] INFO ebanking - user name provided
+2024-01-15 20:06:10,231 [main] INFO ebanking - password provided
+2024-01-15 20:06:18,306 [main] INFO ebanking - Login passed
+2024-01-15 20:06:30,227 [main] INFO ebanking - user name provided
+2024-01-15 20:06:30,318 [main] INFO ebanking - password provided
+2024-01-16 17:44:15,230 [main] INFO ebanking - Entered Username
+2024-01-16 17:44:15,339 [main] INFO ebanking - Entered Password
+2024-01-16 17:44:17,471 [main] INFO ebanking - Clicked on Login button
+2024-01-16 17:44:17,480 [main] INFO ebanking - Login Test Passed
+2024-01-16 17:48:46,464 [main] INFO ebanking - Entered Username
+2024-01-16 17:48:46,545 [main] INFO ebanking - Entered Password
+2024-01-16 17:48:49,251 [main] INFO ebanking - Clicked on Login button
+2024-01-16 17:48:49,271 [main] INFO ebanking - Login Test Passed
+2024-01-17 20:09:30,604 [main] INFO ebanking - Entered Username
+2024-01-17 20:09:30,696 [main] INFO ebanking - Entered Password
+2024-01-17 20:09:34,120 [main] INFO ebanking - Clicked on Login button
+2024-01-17 20:09:34,135 [main] INFO ebanking - Login Test Passed
+2024-01-17 20:09:43,528 [main] INFO ebanking - Username provided...
+2024-01-17 20:09:43,621 [main] INFO ebanking - Password provided...
+2024-01-17 20:09:48,986 [main] INFO ebanking - Customer details added successfully...
+2024-01-17 20:10:11,869 [main] INFO ebanking - Test Case is passesd...
+2024-01-17 20:32:43,231 [main] INFO ebanking - Entered Username
+2024-01-17 20:32:43,377 [main] INFO ebanking - Entered Password
+2024-01-17 20:32:45,585 [main] INFO ebanking - Clicked on Login button
+2024-01-17 20:32:45,598 [main] INFO ebanking - Login Test Passed
+2024-01-17 20:32:56,438 [main] INFO ebanking - Username provided...
+2024-01-17 20:32:56,525 [main] INFO ebanking - Password provided...
+2024-01-17 20:33:05,098 [main] INFO ebanking - Customer details added successfully...
+2024-01-17 20:33:23,650 [main] INFO ebanking - Test Case is passesd...
+2024-01-17 20:39:40,380 [main] INFO ebanking - Entered Username
+2024-01-17 20:39:40,494 [main] INFO ebanking - Entered Password
+2024-01-17 20:39:43,583 [main] INFO ebanking - Clicked on Login button
+2024-01-17 20:39:43,599 [main] INFO ebanking - Login Test Passed
+2024-01-17 20:39:51,650 [main] INFO ebanking - Username provided...
+2024-01-17 20:39:51,759 [main] INFO ebanking - Password provided...
+2024-01-17 20:39:58,122 [main] INFO ebanking - Customer details added successfully...
+2024-01-17 20:40:15,939 [main] INFO ebanking - Test Case is passesd...
+2024-01-17 20:51:35,154 [main] INFO ebanking - Entered Username
+2024-01-17 20:51:35,260 [main] INFO ebanking - Entered Password
+2024-01-17 20:51:37,596 [main] INFO ebanking - Clicked on Login button
+2024-01-17 20:51:37,612 [main] INFO ebanking - Login Test Passed
+2024-01-17 20:51:44,687 [main] INFO ebanking - Username provided...
+2024-01-17 20:51:44,836 [main] INFO ebanking - Password provided...
+2024-01-17 20:51:50,530 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 16:05:23,895 [main] INFO ebanking - Entered Username
+2024-01-19 16:05:23,973 [main] INFO ebanking - Entered Password
+2024-01-19 16:05:26,003 [main] INFO ebanking - Clicked on Login button
+2024-01-19 16:05:26,015 [main] INFO ebanking - Login Test Passed
+2024-01-19 16:05:33,153 [main] INFO ebanking - Username provided...
+2024-01-19 16:05:33,263 [main] INFO ebanking - Password provided...
+2024-01-19 16:05:38,085 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 16:05:56,490 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 16:48:54,161 [main] INFO ebanking - Entered Username
+2024-01-19 16:48:54,245 [main] INFO ebanking - Entered Password
+2024-01-19 16:48:55,934 [main] INFO ebanking - Clicked on Login button
+2024-01-19 16:48:55,946 [main] INFO ebanking - Login Test Passed
+2024-01-19 16:49:02,732 [main] INFO ebanking - Username provided...
+2024-01-19 16:49:02,804 [main] INFO ebanking - Password provided...
+2024-01-19 16:49:07,759 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 16:49:26,575 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 17:20:11,067 [main] INFO ebanking - Entered Username
+2024-01-19 17:20:11,140 [main] INFO ebanking - Entered Password
+2024-01-19 17:20:12,657 [main] INFO ebanking - Clicked on Login button
+2024-01-19 17:20:12,669 [main] INFO ebanking - Login Test Passed
+2024-01-19 17:20:17,811 [main] INFO ebanking - Username provided...
+2024-01-19 17:20:17,953 [main] INFO ebanking - Password provided...
+2024-01-19 17:20:22,447 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 17:20:39,524 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 17:36:57,001 [main] INFO ebanking - Entered Username
+2024-01-19 17:36:57,144 [main] INFO ebanking - Entered Password
+2024-01-19 17:36:59,251 [main] INFO ebanking - Clicked on Login button
+2024-01-19 17:36:59,262 [main] INFO ebanking - Login Test Passed
+2024-01-19 17:37:05,875 [main] INFO ebanking - Username provided...
+2024-01-19 17:37:05,951 [main] INFO ebanking - Password provided...
+2024-01-19 17:37:10,837 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 17:37:29,296 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 18:00:24,696 [main] INFO ebanking - Entered Username
+2024-01-19 18:00:24,798 [main] INFO ebanking - Entered Password
+2024-01-19 18:00:26,385 [main] INFO ebanking - Clicked on Login button
+2024-01-19 18:00:26,403 [main] INFO ebanking - Login Test Passed
+2024-01-19 18:00:31,772 [main] INFO ebanking - Username provided...
+2024-01-19 18:00:31,891 [main] INFO ebanking - Password provided...
+2024-01-19 18:00:36,988 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 18:00:55,412 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 19:13:14,779 [main] INFO ebanking - Entered Username
+2024-01-19 19:13:14,857 [main] INFO ebanking - Entered Password
+2024-01-19 19:13:16,649 [main] INFO ebanking - Clicked on Login button
+2024-01-19 19:13:16,778 [main] INFO ebanking - Login Test Passed
+2024-01-19 19:13:22,457 [main] INFO ebanking - Username provided...
+2024-01-19 19:13:22,583 [main] INFO ebanking - Password provided...
+2024-01-19 19:13:27,347 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 19:14:16,501 [main] INFO ebanking - Entered Username
+2024-01-19 19:14:16,578 [main] INFO ebanking - Entered Password
+2024-01-19 19:14:18,484 [main] INFO ebanking - Clicked on Login button
+2024-01-19 19:14:18,503 [main] INFO ebanking - Login Test Passed
+2024-01-19 19:14:25,915 [main] INFO ebanking - Username provided...
+2024-01-19 19:14:26,022 [main] INFO ebanking - Password provided...
+2024-01-19 19:14:31,180 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 19:14:49,885 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 19:18:09,829 [main] INFO ebanking - Entered Username
+2024-01-19 19:18:09,956 [main] INFO ebanking - Entered Password
+2024-01-19 19:18:11,781 [main] INFO ebanking - Clicked on Login button
+2024-01-19 19:18:11,803 [main] INFO ebanking - Login Test Passed
+2024-01-19 19:18:17,742 [main] INFO ebanking - Username provided...
+2024-01-19 19:18:17,838 [main] INFO ebanking - Password provided...
+2024-01-19 19:18:22,680 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 19:18:40,516 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 19:19:16,693 [main] INFO ebanking - Entered Username
+2024-01-19 19:19:16,807 [main] INFO ebanking - Entered Password
+2024-01-19 19:19:18,816 [main] INFO ebanking - Clicked on Login button
+2024-01-19 19:19:18,833 [main] INFO ebanking - Login Test Passed
+2024-01-19 19:19:24,435 [main] INFO ebanking - Username provided...
+2024-01-19 19:19:24,542 [main] INFO ebanking - Password provided...
+2024-01-19 19:19:29,209 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 19:19:47,670 [main] INFO ebanking - Test Case is passesd...
+2024-01-19 19:20:10,966 [main] INFO ebanking - Entered Username
+2024-01-19 19:20:11,047 [main] INFO ebanking - Entered Password
+2024-01-19 19:20:12,984 [main] INFO ebanking - Clicked on Login button
+2024-01-19 19:20:12,984 [main] INFO ebanking - Login Test Passed
+2024-01-19 19:20:19,850 [main] INFO ebanking - Username provided...
+2024-01-19 19:20:19,936 [main] INFO ebanking - Password provided...
+2024-01-19 19:20:25,107 [main] INFO ebanking - Customer details added successfully...
+2024-01-19 19:20:43,623 [main] INFO ebanking - Test Case is passesd...
+2024-01-20 10:41:26,408 [main] INFO ebanking - Entered Username
+2024-01-20 10:41:26,497 [main] INFO ebanking - Entered Password
+2024-01-20 10:41:28,248 [main] INFO ebanking - Clicked on Login button
+2024-01-20 10:41:28,259 [main] INFO ebanking - Login Test Passed
+2024-01-20 10:41:36,821 [main] INFO ebanking - Username provided...
+2024-01-20 10:41:36,907 [main] INFO ebanking - Password provided...
+2024-01-20 10:41:41,677 [main] INFO ebanking - Customer details added successfully...

@@ -1,0 +1,6 @@
+com\inetbanking\pageObjects\AddCustomerPage.class
+com\inetbanking\pageObjects\TestBase.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\testUtility\ExtentReport.class
+com\inetbanking\testUtility\XLUtils.class
+com\inetbanking\testUtility\ReadConfig.class
